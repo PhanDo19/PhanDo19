@@ -161,10 +161,6 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-            <td align="center" style="border: none;">
-        <img src="https://www.wiadvance.com/upload/catalog_m/ALL_catalog_22E26_1CnCC5Tnv2.png" alt="Oracle" width="50" height="50"/><br>Oracle
-      </td>
     </tr>
   </tbody>
 </table>
@@ -187,8 +183,8 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       <td align="center" style="border: none;">
         <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="JenKin" width="50" height="50"/><br>JenKin
       </td>
-      <td align="center" style="border: none; background: white">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="JenKin" width="50" height="50"/><br>GitHub Action
+      <td align="center" style="border: none;">
+        <img style="background: white" src="https://techstack-generator.vercel.app/github-icon.svg" alt="JenKin" width="50" height="50"/><br>GitHub Action
       </td>
     </tr>
   </tbody>
