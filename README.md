@@ -280,7 +280,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
+        <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="Orcale" width="50" height="40"/><br>Orcale
       </td>
     </tr>
   </tbody>
@@ -301,9 +301,9 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
-      <!-- <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td> -->
+      <td align="center" style="border: none;">
+        <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="JenKin" width="50" height="50"/><br>JenKin
+      </td>
       <!-- <td align="center" style="border: none;">
         <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
       </td> -->
