@@ -1,4 +1,4 @@
-[![header](./banner.png)]
+![header](./banner.png)
 
 <div align="center">
   <a href="https://github.com/PhanDo19">
@@ -48,7 +48,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
 
 <img src="https://github-readme-stats.vercel.app/api?username=Phando19&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="Phando19's GitHub stats">
 
-### Top Repositories
+<!-- ### Top Repositories
 <div align="center">
   <table>
     <tr>
@@ -76,12 +76,12 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 </div>
-
+<!-- 
 <h2 align="center">Socials Stats</h2>
-
+<!-- 
 <div align="center">
 <div align="center">
   <table style="border: none;">
@@ -110,7 +110,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   </table>
 </div>
 
-<h3 align="center">YouTube Stats</h3>
+<!-- <h3 align="center">YouTube Stats</h3>
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
 
@@ -124,40 +124,41 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   <a href="https://steamcommunity.com/profiles/76561198828144879/">
   <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
   </a>
-</p>
+</p> --> 
 
-<table>
+<!-- <table>
   <tr>
-    <!-- Dev Profile Header -->
+    <!-- Dev Profile Header 
     <th align="center">
       Dev Profile
     </th>
-    <!-- roadmap.sh Profile Header -->
+    <!-- roadmap.sh Profile Header 
     <th align="center">
       roadmap.sh Profile
     </th>
   </tr>
   <tr>
-    <!-- Dev Profile -->
+    <!-- Dev Profile 
     <td align="center">
       <a href="https://app.daily.dev/kenangain">
-        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Kenan Gain's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Tien Do's Dev Card"/>
       </a>
     </td>
-    <!-- roadmap.sh Profile -->
+    <!-- roadmap.sh Profile 
     <td align="center">
       <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
     </td>
   </tr>
-</table>
+</table> -->
 
 
-<h3 align="center">Stack overflow</h3>
+
+<!-- <h3 align="center">Stack overflow</h3>
 <div align="center">
 <a href="https://stackoverflow.com/users/21519409/kenan-gain">
 <img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
 </a>
-</div>
+</div> -->
 
 
 
@@ -176,12 +177,12 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <a href="https://nextjs.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
-      </td>
+      </td> -->
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
@@ -241,17 +242,17 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="Csharp"/><br>C#
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td>
+      </td> -->
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+        <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Flask"/><br>GoLang
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
@@ -266,6 +267,9 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   </thead>
   <tbody>
     <tr>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQLServer" width="50" height="50"/><br>SQLServer
+      </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
@@ -297,15 +301,15 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
+      </td> -->
+      <!-- <td align="center" style="border: none;">
         <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
+      </td> -->
+      <!-- <td align="center" style="border: none;">
         <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
@@ -323,9 +327,9 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
       </td>
-      <td align="center" style="border: none;">
+      <!-- <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
+      </td> -->
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
@@ -353,7 +357,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   </tbody>
 </table>
 </div>
-
+<!-- 
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -365,7 +369,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="Python" width="50" height="50"/><br>Csharp
       </td>
       <td align="center" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
@@ -382,9 +386,9 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
     </tr>
   </tbody>
  </table>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -394,7 +398,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>Asp
       </td>
       <td align="center" style="border: none;">
         <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
@@ -405,9 +409,9 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
     </tr>
   </tbody>
 </table>
-</div>
+</div> -->
 
-
+<!-- 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
 <div align="center">
  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -553,7 +557,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       Let's collaborate on something amazing!
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <h2 align="center">🎵 My Spotify Playlist</h2>
@@ -591,22 +595,22 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <table align="center">
   <tr>
     <th align="center">
-      <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+      <a href="#" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
       </a>
     </th>
     <th align="center">
-      <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
+      <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
       </a>
     </th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
+      <img src="#" alt="Buy Me a Coffee QR Code" width="150" height="150">
     </td>
     <td align="center">
-      <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+      <img src="#" alt="PayPal QR Code" width="150" height="150">
     </td>
   </tr>
 </table>
