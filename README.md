@@ -163,7 +163,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="Orcale" width="50" height="50"/><br>Orcale
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Orcale" width="50" height="50"/><br>Orcale
       </td>
     </tr>
   </tbody>
@@ -186,6 +186,9 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       </td>
       <td align="center" style="border: none;">
         <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="JenKin" width="50" height="50"/><br>JenKin
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="JenKin" width="50" height="50"/><br>GitHub Action
       </td>
     </tr>
   </tbody>
