@@ -48,117 +48,12 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
 
 <img src="https://github-readme-stats.vercel.app/api?username=Phando19&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="Phando19's GitHub stats">
 
-<!-- ### Top Repositories
+<h3 align="center">Stack overflow</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phando19&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/weather-app-3d">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phando19&repo=weather-app-3d&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phando19&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phando19&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div> -->
-
-</div>
-<!-- 
-<h2 align="center">Socials Stats</h2>
-<!-- 
-<div align="center">
-<div align="center">
-  <table style="border: none;">
-    <tr>
-  <td align="center" style="border: none;">
-        <a href="https://www.instagram.com/knightgamer87/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-382%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-228%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-      <td align="center" style="border: none;">
-  <a href="https://discord.gg/YdDyV6QqEN">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/>
-    <div align="center">
-      <div>
-      <img src="https://img.shields.io/badge/Discord-110%2B%20members-7289DA?style=flat-square&logo=discord" alt="Discord Members">
-      </div>
-      <div>
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </div>
-      </div>
-  </a>
-       </td>
-    </tr>
-  </table>
-</div>
-
-<!-- <h3 align="center">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCJmBG8lD1-aj1HQr4PFT-XQ&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/@KnightGamer87)
-
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?border=0&radius=20"/>
-</p>
-
-<h3 align="center">Steam Profile</h3>
-<p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198828144879/">
-  <img align="center" src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198828144879&show_in_game_bg=true&show_recent_game_bg=true"/>
-  </a>
-</p> --> 
-
-<!-- <table>
-  <tr>
-    <!-- Dev Profile Header 
-    <th align="center">
-      Dev Profile
-    </th>
-    <!-- roadmap.sh Profile Header 
-    <th align="center">
-      roadmap.sh Profile
-    </th>
-  </tr>
-  <tr>
-    <!-- Dev Profile 
-    <td align="center">
-      <a href="https://app.daily.dev/kenangain">
-        <img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=y4m" width="356" alt="Tien Do's Dev Card"/>
-      </a>
-    </td>
-    <!-- roadmap.sh Profile 
-    <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
-    </td>
-  </tr>
-</table> -->
-
-
-
-<!-- <h3 align="center">Stack overflow</h3>
-<div align="center">
-<a href="https://stackoverflow.com/users/21519409/kenan-gain">
-<img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
+<a href="https://stackoverflow.com/users/26359255/tien-do">
+<img src="https://www.gravatar.com/avatar/429e7b2c730438ec887bee0bf0096394?s=96&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2" alt="Tien Do's user avatar" width="208" height="58" class="bar-sm">
 </a>
-</div> -->
+</div>
 
 
 
@@ -177,12 +72,6 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   </thead>
   <tbody>
     <tr>
-      <!-- <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td> -->
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
@@ -244,15 +133,9 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="Csharp"/><br>C#
       </td>
-      <!-- <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td> -->
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=go" width="50" height="50" alt="Flask"/><br>GoLang
       </td>
-      <!-- <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td> -->
     </tr>
   </tbody>
 </table>
@@ -304,12 +187,6 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       <td align="center" style="border: none;">
         <img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="JenKin" width="50" height="50"/><br>JenKin
       </td>
-      <!-- <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td> -->
-      <!-- <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td> -->
     </tr>
   </tbody>
 </table>
@@ -327,9 +204,6 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
       </td>
-      <!-- <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td> -->
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
       </td>
@@ -357,208 +231,6 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
   </tbody>
 </table>
 </div>
-<!-- 
-<h3 align="center">AI/ML & Data Science</h3>
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="Python" width="50" height="50"/><br>Csharp
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="50" height="50"/><br>Pandas
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/><br>TensorFlow
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-      </td>
-    </tr>
-  </tbody>
- </table>
-</div> -->
-
-<!-- <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>Asp
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-  <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div> -->
-
-<!-- 
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
-<div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-       <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/><br>Google Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Streaming & Video Editing</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/><br>Twitch
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/><br>YouTube
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th align="center" style="color: white;">Streaming Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/><br>OBS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Video Editing Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" height="50" alt="Adobe Photoshop"/><br>Adobe Photoshop
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="50" height="50" alt="Adobe Premiere Pro"/><br>Adobe Premiere Pro
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="50" height="50" alt="Adobe After Effects"/><br>Adobe After Effects
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-<h2 align="center">🏆 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="AI Content Creation"/>
-      <br>
-      <strong>AI-Powered Content Creation</strong>
-      <br>
-      Automated content generation using various LLMs
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="MapleLaw AI"/>
-      <br>
-      <strong>MapleLaw AI</strong>
-      <br>
-      Legal information assistant for Canadian citizens
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Sara AI"/>
-      <br>
-      <strong>Sara AI for Canadian Tire</strong>
-      <br>
-      AI-enhanced shopping experience
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="4K60 Streaming"/>
-      <br>
-      <strong>4K60 Streaming Setup</strong>
-      <br>
-      High-performance streaming with instant replay
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Cloud-Native Web Apps"/>
-      <br>
-      <strong>Cloud-Native Web Apps</strong>
-      <br>
-      Next.js, React, Django with Docker & Kubernetes
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Your Next Project?"/>
-      <br>
-      <strong>Your Next Project?</strong>
-      <br>
-      Let's collaborate on something amazing!
-    </td>
-  </tr>
-</table> -->
-
 
 <h2 align="center">🎵 My Spotify Playlist</h2>
 
@@ -623,13 +295,12 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="mailto:kenangain2910@gmail.com"><img src="https://img.shields.io/badge/Email-kenangain2910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+14374364786"><img src="https://img.shields.io/badge/International%20Phone-%2B1%20(437--436--4786)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="International Phone"></a>
-  <a href="tel:+918200280008"><img src="https://img.shields.io/badge/Indian%20Phone-%2B91%20(820--028--0008)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Indian Phone"></a>
+  <a href="mailto:phando19@gmail.com"><img src="https://img.shields.io/badge/Email-phando19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="tel:+84886505360"><img src="https://img.shields.io/badge/Vietnam%20Phone-%2B84%20(886--505--360)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="VietNam Phone"></a>
 </p>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+⭐️ From [TienDo](https://github.com/Phando19) | Let's innovate together! 🚀
 
 </div>
 
