@@ -44,7 +44,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
 <div align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phando19&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=vision-friendly-dark" />
 </div>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phando19&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phando19&custom_title=PhanDo's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Phando19&hide_border=true&border_radius=15&show_icons=true&theme=vision-friendly-dark" alt="Phando19's GitHub stats">
 
@@ -295,12 +295,12 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="mailto:phando19@gmail.com"><img src="https://img.shields.io/badge/Email-phando19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:phantiendo20@gmail.com"><img src="https://img.shields.io/badge/Email-phantiendo20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="tel:+84886505360"><img src="https://img.shields.io/badge/Vietnam%20Phone-%2B84%20(886--505--360)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="VietNam Phone"></a>
 </p>
 <div align="center">
   
-⭐️ From [TienDo](https://github.com/Phando19) | Let's innovate together! 🚀
+⭐️ From [PhanDo](https://github.com/Phando19) | Let's innovate together! 🚀
 
 </div>
 
