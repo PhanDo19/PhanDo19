@@ -163,7 +163,7 @@ As a versatile Computer Engineer and Full-Stack Developer. With a proven track r
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="Orcale" width="50" height="40"/><br>Orcale
+        <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" alt="Orcale" width="50" height="50"/><br>Orcale
       </td>
     </tr>
   </tbody>
